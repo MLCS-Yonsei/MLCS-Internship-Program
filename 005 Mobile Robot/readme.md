@@ -1,9 +1,13 @@
-# Introduction to Control
+# Introduction to Mobile Robots
 
 ## Simulation example files
 
-1. main_example.m : main file for the simulation and plotting example
-2. system_fun.m : function file containing the information of the system dynamics. for the 'ode45' function
+1. particle_filter.py : particle filter example with 4 RFID sensors
+2. dynamic_window_approach.py : simple 2D navigation with DWA method 
+
+## References 
+- Autonomous Systems Lab. (2021). Autonomous Mobile Robots [Lecture notes]. ETH Zurich. Retrieved from https://asl.ethz.ch/education/lectures/autonomous_mobile_robots/spring-2021.html
+- Sakai, A. (n.d.). PythonRobotics. GitHub. Retrieved from https://github.com/AtsushiSakai/PythonRobotics
 
 ## Author
-Joohwan Seo
+Taekwon Ga
